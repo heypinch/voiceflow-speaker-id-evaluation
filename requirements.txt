@@ -1,0 +1,7 @@
+--index-url https://${FURY_AUTH}:@pypi.fury.io/tech-leads/
+--extra-index-url https://pypi.org/simple/
+pinch-torch
+speakerflow
+pyannote.core
+pyannote.metrics
+pwntools
